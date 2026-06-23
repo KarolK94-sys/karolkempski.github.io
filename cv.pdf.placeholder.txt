@@ -1,0 +1,2 @@
+Wrzuć tutaj swój plik CV jako 'cv.pdf' (ten placeholder możesz wtedy usunąć).
+Przycisk 'Pobierz CV' w hero linkuje do /cv.pdf.
